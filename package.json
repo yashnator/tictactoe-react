@@ -1,8 +1,8 @@
 {
   "name": "tictactoe",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://yashnator.github.io",
+  "private": false,
+  "homepage": "https://yashnator.github.io/tictactoe-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
